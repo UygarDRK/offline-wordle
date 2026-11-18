@@ -108,4 +108,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Made by `<your name>`.
+Made by Uygar Dirik, https://uygardirik.com.tr.
