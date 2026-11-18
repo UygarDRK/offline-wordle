@@ -52,7 +52,7 @@ Guesses with the wrong length are discarded and do not use an attempt.
 ## Build and run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/UygarDRK/offline-wordle
 cd offline-wordle
 dotnet run
 ```
